@@ -787,3 +787,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.06-03.54.09:964][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.09.06-03.54.09:998][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.09.06-03.54.10:059][  3]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.06-03.55.43:570][188]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2021.09.06-03.55.45:079][280]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.45:477][317]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.09.06-03.55.45:559][318]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (NewTextRenderComponent)
+[2021.09.06-03.55.46:424][416]LogSlate: Took 0.006668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.06-03.55.52:260][109]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.53:216][210]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.53:806][280]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.53:855][285]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.09.06-03.55.55:156][439]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.09.06-03.55.55:245][449]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.56:806][634]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.55.56:863][640]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.09.06-03.56.02:057][253]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.09.06-03.56.02:115][257]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (NewTextRenderComponent)
+[2021.09.06-03.56.26:812][190]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.06-03.56.27:439][260]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.06-03.56.27:468][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.06-03.56.27:495][260]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMapBD95C9154BA5835B28EF858C406866F6.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.09.06-03.56.27:500][260]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMap_BuiltDaEDFC855B47C6C0A4CA37A7892D0CD240.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.09.06-03.56.27:513][260]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.06-03.56.27:513][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.09.06-03.56.27:513][260]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
