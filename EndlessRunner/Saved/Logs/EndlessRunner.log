@@ -1534,3 +1534,675 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-05.10.20:863][874]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.07-05.10.20:863][874]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2021.09.07-05.10.20:863][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.09.07-05.20.21:108][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.07-05.20.21:112][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.019
+[2021.09.07-05.20.21:113][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/3] ([1] browsable assets)...
+[2021.09.07-05.20.21:116][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/3.3]
+[2021.09.07-05.20.21:116][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/3]
+[2021.09.07-05.20.21:117][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/3_Auto16E1314D744728C99920065B56D653D83.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/3_Auto1.uasset'
+[2021.09.07-05.20.21:117][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/4] ([1] browsable assets)...
+[2021.09.07-05.20.21:119][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/4.4]
+[2021.09.07-05.20.21:119][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/4]
+[2021.09.07-05.20.21:121][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/4_Auto199D132404A2BC645A3B9AAAF64CCBACD.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/4_Auto1.uasset'
+[2021.09.07-05.20.21:121][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/5] ([1] browsable assets)...
+[2021.09.07-05.20.21:123][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/5.5]
+[2021.09.07-05.20.21:123][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/5]
+[2021.09.07-05.20.21:124][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/5_Auto138F0B5244EA85CB8CEDA338CCE060AB5.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/5_Auto1.uasset'
+[2021.09.07-05.20.21:125][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/6] ([1] browsable assets)...
+[2021.09.07-05.20.21:127][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/6.6]
+[2021.09.07-05.20.21:127][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/6]
+[2021.09.07-05.20.21:128][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/6_Auto1F37EEA604848D212A93EF5B164911CEF.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/6_Auto1.uasset'
+[2021.09.07-05.20.21:129][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/7] ([1] browsable assets)...
+[2021.09.07-05.20.21:131][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/7.7]
+[2021.09.07-05.20.21:131][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/7]
+[2021.09.07-05.20.21:132][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/7_Auto1D0FE30E94BAC2B7394A8F38971807178.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/7_Auto1.uasset'
+[2021.09.07-05.20.21:132][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/8] ([1] browsable assets)...
+[2021.09.07-05.20.21:134][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/8.8]
+[2021.09.07-05.20.21:135][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/8]
+[2021.09.07-05.20.21:136][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/8_Auto1272A84B340D49376F86B3A8F10BD1232.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/8_Auto1.uasset'
+[2021.09.07-05.20.21:136][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/9] ([1] browsable assets)...
+[2021.09.07-05.20.21:138][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/9.9]
+[2021.09.07-05.20.21:138][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/9]
+[2021.09.07-05.20.21:139][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/9_Auto11EE5FAA34AEEF8179801829C26CF101B.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/9_Auto1.uasset'
+[2021.09.07-05.20.21:140][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/10] ([1] browsable assets)...
+[2021.09.07-05.20.21:142][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/10.10]
+[2021.09.07-05.20.21:142][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/10]
+[2021.09.07-05.20.21:143][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/10_Auto1EC72F81846D67AD288B5D591482B3E57.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/10_Auto1.uasset'
+[2021.09.07-05.20.21:143][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/11] ([1] browsable assets)...
+[2021.09.07-05.20.21:145][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/11.11]
+[2021.09.07-05.20.21:145][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/11]
+[2021.09.07-05.20.21:146][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/11_Auto1E62CE9034783E656D53E7AB01FE4E779.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/11_Auto1.uasset'
+[2021.09.07-05.20.21:147][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/12] ([1] browsable assets)...
+[2021.09.07-05.20.21:149][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/12.12]
+[2021.09.07-05.20.21:149][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/12]
+[2021.09.07-05.20.21:150][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/12_Auto1E90916E441BF4C9276DA23A6B60E71AA.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/12_Auto1.uasset'
+[2021.09.07-05.20.21:150][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/13] ([1] browsable assets)...
+[2021.09.07-05.20.21:152][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/13.13]
+[2021.09.07-05.20.21:152][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/13]
+[2021.09.07-05.20.21:153][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/13_Auto10750353C440BFC73870337A38A71EF00.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/13_Auto1.uasset'
+[2021.09.07-05.20.21:153][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/14] ([1] browsable assets)...
+[2021.09.07-05.20.21:155][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/14.14]
+[2021.09.07-05.20.21:155][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/14]
+[2021.09.07-05.20.21:156][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/14_Auto1A07449654B3EE65D21294BBD5E832B46.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/14_Auto1.uasset'
+[2021.09.07-05.20.21:156][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/15] ([1] browsable assets)...
+[2021.09.07-05.20.21:158][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/15.15]
+[2021.09.07-05.20.21:158][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/15]
+[2021.09.07-05.20.21:159][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/15_Auto16ABC857840F72BDF34F3719E51DBA5DC.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/15_Auto1.uasset'
+[2021.09.07-05.20.21:159][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/16] ([1] browsable assets)...
+[2021.09.07-05.20.21:161][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/16.16]
+[2021.09.07-05.20.21:161][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/16]
+[2021.09.07-05.20.21:162][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/16_Auto1B9E7557E48EB3C581DF7FB9CD8A29275.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/16_Auto1.uasset'
+[2021.09.07-05.20.21:163][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/17] ([1] browsable assets)...
+[2021.09.07-05.20.21:165][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/17.17]
+[2021.09.07-05.20.21:165][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/17]
+[2021.09.07-05.20.21:166][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/17_Auto1C8F4249140B84B4E85225A99CA219A4C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/17_Auto1.uasset'
+[2021.09.07-05.20.21:166][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/18] ([1] browsable assets)...
+[2021.09.07-05.20.21:169][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/18.18]
+[2021.09.07-05.20.21:169][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/18]
+[2021.09.07-05.20.21:170][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/18_Auto1E07313EB41DB35A2583EE98ECE360526.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/18_Auto1.uasset'
+[2021.09.07-05.20.21:170][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/1] ([1] browsable assets)...
+[2021.09.07-05.20.21:172][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/1.1]
+[2021.09.07-05.20.21:172][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/1]
+[2021.09.07-05.20.21:173][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1_Auto1109F71A94FACE12E662640A0A3CA05A9.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/1_Auto1.uasset'
+[2021.09.07-05.20.21:173][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/2] ([1] browsable assets)...
+[2021.09.07-05.20.21:175][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/2.2]
+[2021.09.07-05.20.21:175][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/2]
+[2021.09.07-05.20.21:176][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2_Auto1C97E01064EF2105B96A7D7AC6F68E5C7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/2_Auto1.uasset'
+[2021.09.07-05.20.21:177][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Bush__1_] ([1] browsable assets)...
+[2021.09.07-05.20.21:178][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Bush__1_.Bush__1_]
+[2021.09.07-05.20.21:178][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Bush__1_]
+[2021.09.07-05.20.21:179][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__1__Auto1EC49C53E4173713A79D7C285D63EF026.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Bush__1__Auto1.uasset'
+[2021.09.07-05.20.21:180][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Bush__2_] ([1] browsable assets)...
+[2021.09.07-05.20.21:181][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Bush__2_.Bush__2_]
+[2021.09.07-05.20.21:181][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Bush__2_]
+[2021.09.07-05.20.21:182][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__2__Auto10792684B40DF15CB97B525914D067FFD.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Bush__2__Auto1.uasset'
+[2021.09.07-05.20.21:182][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Bush__3_] ([1] browsable assets)...
+[2021.09.07-05.20.21:184][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Bush__3_.Bush__3_]
+[2021.09.07-05.20.21:184][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Bush__3_]
+[2021.09.07-05.20.21:184][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__3__Auto1E0D846B942927C0B51A9E0AD36750E17.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Bush__3__Auto1.uasset'
+[2021.09.07-05.20.21:185][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Bush__4_] ([1] browsable assets)...
+[2021.09.07-05.20.21:186][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Bush__4_.Bush__4_]
+[2021.09.07-05.20.21:186][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Bush__4_]
+[2021.09.07-05.20.21:187][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__4__Auto1DA848D244BFD7AB40055CE852349EB09.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Bush__4__Auto1.uasset'
+[2021.09.07-05.20.21:187][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Crate] ([1] browsable assets)...
+[2021.09.07-05.20.21:189][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Crate.Crate]
+[2021.09.07-05.20.21:189][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Crate]
+[2021.09.07-05.20.21:190][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Crate_Auto133C8C17D463B426AC2B115B07DFF8DAF.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Crate_Auto1.uasset'
+[2021.09.07-05.20.21:190][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Mushroom_1] ([1] browsable assets)...
+[2021.09.07-05.20.21:191][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Mushroom_1.Mushroom_1]
+[2021.09.07-05.20.21:191][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Mushroom_1]
+[2021.09.07-05.20.21:192][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_1_Auto1412BE2B84085A65C4E928AA57C900BCE.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Mushroom_1_Auto1.uasset'
+[2021.09.07-05.20.21:192][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Mushroom_2] ([1] browsable assets)...
+[2021.09.07-05.20.21:193][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Mushroom_2.Mushroom_2]
+[2021.09.07-05.20.21:194][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Mushroom_2]
+[2021.09.07-05.20.21:194][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_2_Auto18384BCFB49682A5EAE1FB4A463DC265A.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Mushroom_2_Auto1.uasset'
+[2021.09.07-05.20.21:195][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Sign_1] ([1] browsable assets)...
+[2021.09.07-05.20.21:196][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Sign_1.Sign_1]
+[2021.09.07-05.20.21:196][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Sign_1]
+[2021.09.07-05.20.21:197][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_1_Auto15FF854F04593585FA65402814320194E.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Sign_1_Auto1.uasset'
+[2021.09.07-05.20.21:197][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Sign_2] ([1] browsable assets)...
+[2021.09.07-05.20.21:198][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Sign_2.Sign_2]
+[2021.09.07-05.20.21:198][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Sign_2]
+[2021.09.07-05.20.21:199][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_2_Auto1144CF19E4DCD56B0ACF90FA076A71731.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Sign_2_Auto1.uasset'
+[2021.09.07-05.20.21:200][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Stone] ([1] browsable assets)...
+[2021.09.07-05.20.21:201][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Stone.Stone]
+[2021.09.07-05.20.21:201][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Stone]
+[2021.09.07-05.20.21:202][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Stone_Auto19B70C3B3472AE2A413A46B80A052C822.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Stone_Auto1.uasset'
+[2021.09.07-05.20.21:203][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Tree_1] ([1] browsable assets)...
+[2021.09.07-05.20.21:204][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Tree_1.Tree_1]
+[2021.09.07-05.20.21:204][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Tree_1]
+[2021.09.07-05.20.21:205][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_1_Auto1873B0F174F386D5A8B38D79AC3068392.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Tree_1_Auto1.uasset'
+[2021.09.07-05.20.21:205][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Tree_2] ([1] browsable assets)...
+[2021.09.07-05.20.21:209][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Tree_2.Tree_2]
+[2021.09.07-05.20.21:209][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Tree_2]
+[2021.09.07-05.20.21:211][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_2_Auto1A539B0684A7B4A6F07BF7EB985F24E4C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Tree_2_Auto1.uasset'
+[2021.09.07-05.20.21:211][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/Tree_3] ([1] browsable assets)...
+[2021.09.07-05.20.21:215][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/Tree_3.Tree_3]
+[2021.09.07-05.20.21:215][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/Tree_3]
+[2021.09.07-05.20.21:217][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_3_Auto1ED9243E4476D938A194DC3BDE20C9868.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/Tree_3_Auto1.uasset'
+[2021.09.07-05.20.21:217][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelItems/Floors/Sprites/BG] ([1] browsable assets)...
+[2021.09.07-05.20.21:222][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelItems/Floors/Sprites/BG.BG]
+[2021.09.07-05.20.21:222][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelItems/Floors/Sprites/BG]
+[2021.09.07-05.20.21:224][686]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/BG_Auto17BCE467A4233BE131D28988C714B3DEA.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/LevelItems/Floors/Sprites/BG_Auto1.uasset'
+[2021.09.07-05.20.21:224][686]LogFileHelpers: Auto-saving content packages took 0.113
+[2021.09.07-05.21.22:417][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.07-05.21.23:831][525]LogSlate: Window 'Save Content' being destroyed
+[2021.09.07-05.21.23:855][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1FEEC485D4C2CD3E74B5FCCAA6EE6BCF3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/1.uasset'
+[2021.09.07-05.21.23:857][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1016B80FFF4B2ED08BF137FB92BFBBAEC9.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/10.uasset'
+[2021.09.07-05.21.23:859][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1185D9164C44E0D9A5EC1174B5B78F999B.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/11.uasset'
+[2021.09.07-05.21.23:861][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/12E84AE99345FD72CBEA120D8091663D57.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/12.uasset'
+[2021.09.07-05.21.23:862][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1342549D6E453C2F4FA4AF21AD9A61EB45.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/13.uasset'
+[2021.09.07-05.21.23:864][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/14B994F44F470795882C25B1900D31FE83.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/14.uasset'
+[2021.09.07-05.21.23:866][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/151F710ADE467867F4D25608ACDA1249F3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/15.uasset'
+[2021.09.07-05.21.23:868][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/16C13EBC8A40F0F9E72C254095236830A9.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/16.uasset'
+[2021.09.07-05.21.23:869][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1735A5D1AA4AB8886F361BD58FEDEB633E.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/17.uasset'
+[2021.09.07-05.21.23:871][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/18AAC0E52143EA5A1B9E2F179037ADCC20.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/18.uasset'
+[2021.09.07-05.21.23:873][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2363DB8EA4AEEEF78D7109A906C29F9A4.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/2.uasset'
+[2021.09.07-05.21.23:875][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/3C0B9BCDB4F14615F28B2B4B7F33D2B25.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/3.uasset'
+[2021.09.07-05.21.23:876][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/4E33858AC4D3BEF21C6F8C2BDDF926124.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/4.uasset'
+[2021.09.07-05.21.23:878][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/5673432724ABAC4666D1850A1B5BAF562.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/5.uasset'
+[2021.09.07-05.21.23:880][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/6D66B1CA5425E00F8888E1D9B465F5248.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/6.uasset'
+[2021.09.07-05.21.23:882][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/7CBD37A504C51E44FCD34448F98F4033C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/7.uasset'
+[2021.09.07-05.21.23:884][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/8DB2149D04B046D688BE73A9C08F1ABDD.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/8.uasset'
+[2021.09.07-05.21.23:885][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/9AF2E9C844C037ABF4E0A4D8D9F3C0253.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/9.uasset'
+[2021.09.07-05.21.23:900][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/BGCAA1E81046ACA192A567A3B6EEDAFDE5.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/BG.uasset'
+[2021.09.07-05.21.23:902][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__1_685C13464702AD0FD1DCFDB446506BF1.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Bush__1_.uasset'
+[2021.09.07-05.21.23:903][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__2_C62F86504EB22A24C60D22B4B05E498F.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Bush__2_.uasset'
+[2021.09.07-05.21.23:905][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__3_58197E8C4AD4A1D6670D07BBF5EBF744.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Bush__3_.uasset'
+[2021.09.07-05.21.23:906][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__4_0E718A7C4E5F6EBE55945EA0EBF5A3DE.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Bush__4_.uasset'
+[2021.09.07-05.21.23:908][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/CrateCE51FE964D4AAA52D4BDA0AC00FCF5B9.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Crate.uasset'
+[2021.09.07-05.21.23:910][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_12BB1FB104788C6DB1980E69824E248EF.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Mushroom_1.uasset'
+[2021.09.07-05.21.23:911][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_27D3F840A457D78A12C52F689FC0386A5.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Mushroom_2.uasset'
+[2021.09.07-05.21.23:913][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_1726A57AE49E62B7E3DE1F0B453A8FA4D.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Sign_1.uasset'
+[2021.09.07-05.21.23:914][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_255007F48447C5351F99A32B034C9358B.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Sign_2.uasset'
+[2021.09.07-05.21.23:916][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Stone38527BEC47BF066067513199C0B17F59.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Stone.uasset'
+[2021.09.07-05.21.23:918][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_106F398944550695C700E57B29B71CCF8.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Tree_1.uasset'
+[2021.09.07-05.21.23:921][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_242B59BC9409D03E9B28665AF3D61D66D.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Tree_2.uasset'
+[2021.09.07-05.21.23:925][525]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_3E46797E841AC4F73EEF90A9716438A90.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/Tree_3.uasset'
+[2021.09.07-05.21.23:939][525]LogSlate: Window 'EndlessRunner - Unreal Editor' being destroyed
+[2021.09.07-05.21.23:939][525]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-05.21.24:026][525]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Bush__2_.Bush__2_
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Bush__1_.Bush__1_
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/2.2
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/1.1
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/18.18
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/17.17
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/16.16
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/15.15
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/14.14
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/BG.BG
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Tree_3.Tree_3
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Tree_2.Tree_2
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Tree_1.Tree_1
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Stone.Stone
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Sign_2.Sign_2
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Sign_1.Sign_1
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Mushroom_2.Mushroom_2
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Mushroom_1.Mushroom_1
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Crate.Crate
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Bush__4_.Bush__4_
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/Bush__3_.Bush__3_
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/13.13
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/12.12
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/11.11
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/10.10
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/9.9
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/8.8
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/7.7
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/6.6
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/5.5
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/4.4
+[2021.09.07-05.21.24:027][525]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Floors/Sprites/3.3
+[2021.09.07-05.21.24:028][526]Cmd: QUIT_EDITOR
+[2021.09.07-05.21.24:028][526]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.07-05.21.24:030][526]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.07-05.21.24:631][526]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.07-05.21.24:631][526]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.07-05.21.24:631][526]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2021.09.07-05.21.24:632][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.07-05.21.24:632][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.07-05.21.24:648][526]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.07-05.21.24:652][526]LogExit: Preparing to exit.
+[2021.09.07-05.21.25:548][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.09.07-05.21.25:654][526]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-05.21.25:662][526]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/] 
+[2021.09.07-05.21.25:690][526]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.07-05.21.25:698][526]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-05.21.25:698][526]LogExit: Editor shut down
+[2021.09.07-05.21.25:698][526]LogExit: Transaction tracking system shut down
+[2021.09.07-05.21.25:975][526]LogExit: Object subsystem successfully closed.
+[2021.09.07-05.21.25:993][526]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.07-05.21.25:993][526]LogShaderCompilers: Display: Total job queries 42, among them cache hits 0 (0.00%)
+[2021.09.07-05.21.25:993][526]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 23 distinct outputs (54.76%)
+[2021.09.07-05.21.25:993][526]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2021.09.07-05.21.25:993][526]LogShaderCompilers: Display: ================================================
+[2021.09.07-05.21.26:004][526]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2021.09.07-05.21.26:028][526]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2021.09.07-05.21.26:029][526]LogModuleManager: Shutting down and abandoning module SteamVREditor (850)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (848)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (830)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (828)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module TextureAlignMode (788)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module BspMode (786)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module GeometryMode (784)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module PlanarCut (782)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module CharacterAI (780)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2021.09.07-05.21.26:030][526]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2021.09.07-05.21.26:031][526]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2021.09.07-05.21.26:031][526]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2021.09.07-05.21.26:031][526]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2021.09.07-05.21.26:031][526]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2021.09.07-05.21.26:031][526]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2021.09.07-05.21.26:825][526]MemoryProfiler: Shutdown
+[2021.09.07-05.21.26:825][526]NetworkingProfiler: Shutdown
+[2021.09.07-05.21.26:825][526]LoadingProfiler: Shutdown
+[2021.09.07-05.21.26:825][526]TimingProfiler: Shutdown
+[2021.09.07-05.21.26:825][526]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2021.09.07-05.21.26:826][526]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2021.09.07-05.21.26:859][526]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2021.09.07-05.21.26:865][526]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2021.09.07-05.21.26:865][526]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2021.09.07-05.21.26:865][526]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2021.09.07-05.21.26:865][526]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2021.09.07-05.21.26:866][526]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2021.09.07-05.21.26:866][526]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2021.09.07-05.21.26:866][526]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2021.09.07-05.21.26:867][526]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2021.09.07-05.21.26:871][526]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2021.09.07-05.21.26:886][526]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2021.09.07-05.21.26:886][526]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2021.09.07-05.21.26:886][526]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GameplayCameras (590)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module SynthesisEditor (588)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module Synthesis (586)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (584)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (582)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AssetTags (572)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module TakeSequencer (570)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module TakeMovieScene (568)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module EditableMesh (566)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (564)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CableComponent (562)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AudioCapture (560)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (559)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MediaCompositing (540)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (538)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (536)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (534)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (532)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (530)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (528)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (526)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module PluginBrowser (524)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (522)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (520)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (518)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CryptoKeys (516)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module CurveEditorTools (514)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (512)
+[2021.09.07-05.21.26:887][526]LogOpenImageDenoise: OIDN shutting down
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (510)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MotoSynth (508)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module MeshConversion (506)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module DynamicMesh (504)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (502)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometricObjects (500)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (496)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (495)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (492)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (490)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (488)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (486)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (484)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module BackChannel (482)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module GitSourceControl (480)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (478)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module FractureEditor (476)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (475)
+[2021.09.07-05.21.26:887][526]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (472)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (470)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (468)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module AutomationUtils (466)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (464)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module AlembicImporter (460)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module AlembicLibrary (459)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module GeometryCache (458)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (457)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (452)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (450)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (448)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (446)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (444)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (442)
+[2021.09.07-05.21.26:888][526]LogModuleManager: Shutting down and abandoning module LiveLink (440)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module UObjectPlugin (438)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (436)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (434)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (432)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module PluginUtils (430)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (428)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module SourceControl (427)
+[2021.09.07-05.21.27:716][526]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (424)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (422)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (420)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (418)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (416)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module Paper2DEditor (414)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (412)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (410)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2021.09.07-05.21.27:717][526]LogModuleManager: Shutting down and abandoning module TcpMessaging (406)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module SoundFields (404)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module SignificanceManager (402)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (400)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (398)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (394)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (392)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (390)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2021.09.07-05.21.27:818][526]LogModuleManager: Shutting down and abandoning module UdpMessaging (384)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2021.09.07-05.21.27:918][526]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (360)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (348)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module FacialAnimation (346)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (342)
+[2021.09.07-05.21.27:918][526]LogModuleManager: Shutting down and abandoning module LevelEditor (341)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (340)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (338)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module MainFrame (336)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module HotReload (335)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module ToolMenus (331)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module TreeMap (329)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (320)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (318)
+[2021.09.07-05.21.27:919][526]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (316)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module AnimationSharing (314)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.09.07-05.21.27:920][526]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.09.07-05.21.27:921][526]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.09.07-05.21.27:922][526]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.09.07-05.21.27:922][526]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.09.07-05.21.27:922][526]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.09.07-05.21.27:922][526]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.09.07-05.21.27:922][526]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.09.07-05.21.27:923][526]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.09.07-05.21.27:924][526]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.09.07-05.21.27:925][526]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module OculusHMD (116)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (114)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module SteamVRInput (112)
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module SteamVR (110)
+[2021.09.07-05.21.27:927][526]LogHMD: Freeing OpenVRDLLHandle.
+[2021.09.07-05.21.27:927][526]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.09.07-05.21.27:930][526]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.09.07-05.21.27:931][526]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.09.07-05.21.27:932][526]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.09.07-05.21.27:932][526]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.09.07-05.21.27:940][526]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.09.07-05.21.27:940][526]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.09.07-05.21.27:940][526]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF6050E4-46FF-A82B-B7DD-B5A66763D4FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=bedc398b4237b4bcb538ad935bbbb895%7C20071e9ac04a463d9f2de4a68cb01c6a%7Cc167500d-0590-4798-a43a-321a4f05ef73&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.09.07-05.21.27:940][526]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.09.07-05.21.27:977][526]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.09.07-05.21.27:979][526]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.09.07-05.21.27:983][526]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.09.07-05.21.27:985][526]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.09.07-05.21.27:986][526]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.09.07-05.21.27:986][526]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.09.07-05.21.27:987][526]LogD3D11RHI: Shutdown
+[2021.09.07-05.21.27:987][526]LogD3D11RHI: CleanupD3DDevice
+[2021.09.07-05.21.28:006][526]LogExit: Exiting.
+[2021.09.07-05.21.28:016][526]Log file closed, 09/07/21 14:51:28
