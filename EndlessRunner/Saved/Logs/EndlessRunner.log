@@ -1288,3 +1288,249 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-04.57.56:171][354]LogSlate: Window 'ExplodingBox' being destroyed
 [2021.09.07-04.57.56:240][354]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2021.09.07-04.57.56:240][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-05.01.41:216][762]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.09.07-05.01.41:224][762]LogContentBrowser: Creating deferred item: NewWorld
+[2021.09.07-05.01.45:494][259]LogContentBrowser: Attempting asset rename: NewWorld -> Endlesslevel
+[2021.09.07-05.01.45:500][259]LogContentBrowser: End creating deferred item NewWorld
+[2021.09.07-05.01.46:386][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.07-05.01.48:515][360]LogSlate: Window 'Save Content' being destroyed
+[2021.09.07-05.01.48:570][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.09.07-05.01.48:577][360]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMapDC3B3E554BDAA100293B8CB1713A6187.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.09.07-05.01.48:581][360]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.025
+[2021.09.07-05.01.48:620][360]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Crate8F2AB25648FF06822C4C39871E9C77F7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Traps/Crate.uasset'
+[2021.09.07-05.01.48:628][360]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Crate_Sprite741BF69B45A9FBF867EB86AC023FA000.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Traps/Crate_Sprite.uasset'
+[2021.09.07-05.01.48:645][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.07-05.01.48:646][360]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Endlesslevel4F6534164B4EEFACDE03E491213A8CD3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/Endlesslevel.umap'
+[2021.09.07-05.01.48:646][360]LogFileHelpers: Saving map 'Endlesslevel' took 0.017
+[2021.09.07-05.01.48:719][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.07-05.01.48:736][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.09.07-05.01.48:749][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.07-05.01.48:772][360]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Levels/Endlesslevel.Endlesslevel
+[2021.09.07-05.01.48:772][360]Cmd: MAP LOAD FILE="../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/Endlesslevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.07-05.01.48:773][360]LightingResults: New page: Lighting Build
+[2021.09.07-05.01.48:773][360]LoadErrors: New page: Loading map: Endlesslevel.umap
+[2021.09.07-05.01.48:774][360]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-05.01.48:774][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-05.01.48:774][360]MapCheck: New page: Map Check
+[2021.09.07-05.01.48:774][360]LightingResults: New page: Lighting Build
+[2021.09.07-05.01.48:787][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.07-05.01.48:789][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.09.07-05.01.48:789][360]LogAudio: Display: Audio Device (ID: 1) registered with world 'Endlesslevel'.
+[2021.09.07-05.01.48:807][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.07-05.01.48:807][360]LogAIModule: Creating AISystem for world Endlesslevel
+[2021.09.07-05.01.48:821][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.09.07-05.01.48:823][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.07-05.01.48:824][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2021.09.07-05.01.48:824][360]LogFileHelpers: Loading map 'Endlesslevel' took 0.052
+[2021.09.07-05.01.48:836][360]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-05.01.48:836][360]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/Endlesslevel.Endlesslevel
+[2021.09.07-05.01.48:836][360]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Traps/Crate.Crate
+[2021.09.07-05.01.48:836][360]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Traps/Crate_Sprite.Crate_Sprite
+[2021.09.07-05.01.48:836][360]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.09.07-05.02.24:322][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2021.09.07-05.02.42:369][228]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2021.09.07-05.02.42:425][228]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-05.02.42:425][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-05.03.21:484][145]LogEditorViewport: Clicking Background
+[2021.09.07-05.03.45:631][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.07-05.03.45:657][361]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.09.07-05.03.45:657][361]Cmd: MAP LOAD FILE="../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.07-05.03.45:657][361]LightingResults: New page: Lighting Build
+[2021.09.07-05.03.45:657][361]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2021.09.07-05.03.45:701][361]LogWorld: UWorld::CleanupWorld for Endlesslevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-05.03.45:701][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-05.03.45:701][361]MapCheck: New page: Map Check
+[2021.09.07-05.03.45:701][361]LightingResults: New page: Lighting Build
+[2021.09.07-05.03.45:713][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.07-05.03.45:715][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.09.07-05.03.45:715][361]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2021.09.07-05.03.45:735][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.07-05.03.45:735][361]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.09.07-05.03.45:750][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.09.07-05.03.45:753][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.07-05.03.45:753][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2021.09.07-05.03.45:753][361]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.096
+[2021.09.07-05.05.13:104][892]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.07-05.05.13:121][892]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.07-05.05.14:767][ 77]LogContentBrowser: Attempting asset rename: NewFolder -> Floors
+[2021.09.07-05.05.14:767][ 77]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.07-05.05.22:195][842]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.07-05.05.22:204][842]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.07-05.05.24:761][133]LogContentBrowser: Attempting asset rename: NewFolder -> Actors
+[2021.09.07-05.05.24:761][133]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.07-05.05.25:914][242]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.07-05.05.25:937][242]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.07-05.05.27:619][428]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2021.09.07-05.05.27:619][428]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.07-05.06.10:707][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\3.png)
+[2021.09.07-05.06.10:708][679]LogTexture: Display: Building textures: 3 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:716][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\4.png)
+[2021.09.07-05.06.10:718][679]LogTexture: Display: Building textures: 4 (BGRA8, 129X129)
+[2021.09.07-05.06.10:722][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\5.png)
+[2021.09.07-05.06.10:723][679]LogTexture: Display: Building textures: 5 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:728][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\6.png)
+[2021.09.07-05.06.10:730][679]LogTexture: Display: Building textures: 6 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:734][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\7.png)
+[2021.09.07-05.06.10:736][679]LogTexture: Display: Building textures: 7 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:740][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\8.png)
+[2021.09.07-05.06.10:741][679]LogTexture: Display: Building textures: 8 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:746][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\9.png)
+[2021.09.07-05.06.10:747][679]LogTexture: Display: Building textures: 9 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:752][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\10.png)
+[2021.09.07-05.06.10:753][679]LogTexture: Display: Building textures: 10 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:757][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\11.png)
+[2021.09.07-05.06.10:759][679]LogTexture: Display: Building textures: 11 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:763][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\12.png)
+[2021.09.07-05.06.10:764][679]LogTexture: Display: Building textures: 12 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:769][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\13.png)
+[2021.09.07-05.06.10:771][679]LogTexture: Display: Building textures: 13 (BGRA8, 128X93)
+[2021.09.07-05.06.10:774][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\14.png)
+[2021.09.07-05.06.10:775][679]LogTexture: Display: Building textures: 14 (BGRA8, 128X93)
+[2021.09.07-05.06.10:779][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\15.png)
+[2021.09.07-05.06.10:780][679]LogTexture: Display: Building textures: 15 (BGRA8, 128X93)
+[2021.09.07-05.06.10:784][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\16.png)
+[2021.09.07-05.06.10:785][679]LogTexture: Display: Building textures: 16 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:790][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\17.png)
+[2021.09.07-05.06.10:794][679]LogTexture: Display: Building textures: 17 (BGRA8, 128X99)
+[2021.09.07-05.06.10:798][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\18.png)
+[2021.09.07-05.06.10:800][679]LogTexture: Display: Building textures: 18 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:804][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\1.png)
+[2021.09.07-05.06.10:805][679]LogTexture: Display: Building textures: 1 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.10:810][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Tiles\2.png)
+[2021.09.07-05.06.10:811][679]LogTexture: Display: Building textures: 2 (OODLE_AutoDXT, 128X128)
+[2021.09.07-05.06.29:425][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Bush (1).png)
+[2021.09.07-05.06.29:426][389]LogTexture: Display: Building textures: Bush__1_ (BGRA8, 133X65)
+[2021.09.07-05.06.29:430][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Bush (2).png)
+[2021.09.07-05.06.29:431][389]LogTexture: Display: Building textures: Bush__2_ (BGRA8, 133X65)
+[2021.09.07-05.06.29:435][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Bush (3).png)
+[2021.09.07-05.06.29:436][389]LogTexture: Display: Building textures: Bush__3_ (BGRA8, 73X47)
+[2021.09.07-05.06.29:440][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Bush (4).png)
+[2021.09.07-05.06.29:441][389]LogTexture: Display: Building textures: Bush__4_ (BGRA8, 73X46)
+[2021.09.07-05.06.29:442][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Crate.png)
+[2021.09.07-05.06.29:443][389]LogTexture: Display: Building textures: Crate (BGRA8, 77X77)
+[2021.09.07-05.06.29:447][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Mushroom_1.png)
+[2021.09.07-05.06.29:448][389]LogTexture: Display: Building textures: Mushroom_1 (BGRA8, 49X41)
+[2021.09.07-05.06.29:451][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Mushroom_2.png)
+[2021.09.07-05.06.29:452][389]LogTexture: Display: Building textures: Mushroom_2 (BGRA8, 50X41)
+[2021.09.07-05.06.29:456][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Sign_1.png)
+[2021.09.07-05.06.29:457][389]LogTexture: Display: Building textures: Sign_1 (BGRA8, 63X65)
+[2021.09.07-05.06.29:460][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Sign_2.png)
+[2021.09.07-05.06.29:460][389]LogTexture: Display: Building textures: Sign_2 (BGRA8, 62X64)
+[2021.09.07-05.06.29:464][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Stone.png)
+[2021.09.07-05.06.29:465][389]LogTexture: Display: Building textures: Stone (BGRA8, 90X54)
+[2021.09.07-05.06.29:468][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Tree_1.png)
+[2021.09.07-05.06.29:469][389]LogTexture: Display: Building textures: Tree_1 (OODLE_AutoDXT, 116X44)
+[2021.09.07-05.06.29:473][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Tree_2.png)
+[2021.09.07-05.06.29:474][389]LogTexture: Display: Building textures: Tree_2 (BGRA8, 282X301)
+[2021.09.07-05.06.29:479][389]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\Object\Tree_3.png)
+[2021.09.07-05.06.29:481][389]LogTexture: Display: Building textures: Tree_3 (BGRA8, 282X275)
+[2021.09.07-05.06.33:741][481]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\i_m_t\Downloads\freetileset\png\BG\BG.png)
+[2021.09.07-05.06.33:753][481]LogTexture: Display: Building textures: BG (BGRA8, 1000X750)
+[2021.09.07-05.08.03:828][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/10_Sprite5C5DB61F4A52F797B60DC78DA58A3266.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/10_Sprite.uasset'
+[2021.09.07-05.08.03:834][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/11_Sprite829E1B634A8408BB1F08CE9F67A74406.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/11_Sprite.uasset'
+[2021.09.07-05.08.03:841][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/12_Sprite93888EB64C243457A0A4F0A49F860ECE.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/12_Sprite.uasset'
+[2021.09.07-05.08.03:848][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/13_SpriteAB14A68B4A5B0C3710C6BA838706CF69.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/13_Sprite.uasset'
+[2021.09.07-05.08.03:854][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/14_Sprite4BBD2C5545BD74F6C063A1AC269D486A.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/14_Sprite.uasset'
+[2021.09.07-05.08.03:861][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/15_Sprite08D5EA9B41F61B040A1B65A5AD7C31E3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/15_Sprite.uasset'
+[2021.09.07-05.08.03:868][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/16_Sprite5BA39F764967C726602B4FAC93BCD322.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/16_Sprite.uasset'
+[2021.09.07-05.08.03:875][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/6_Sprite39D7C52743883746E1B5C3A22650E87F.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/6_Sprite.uasset'
+[2021.09.07-05.08.03:881][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/5_Sprite880531534634630C95E15D8AF94D6FA3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/5_Sprite.uasset'
+[2021.09.07-05.08.03:887][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/4_Sprite06429274432218B1522FCFA8E7F26BB2.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/4_Sprite.uasset'
+[2021.09.07-05.08.03:894][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/3_Sprite07E0696949FA11D329524083DC33A5BE.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/3_Sprite.uasset'
+[2021.09.07-05.08.03:900][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2_SpriteBC4D803C48AD5FCBFEE5F9881E432ED1.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/2_Sprite.uasset'
+[2021.09.07-05.08.03:907][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/1_Sprite30C9B69546735C7C0E729F8BEC9F89C4.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/1_Sprite.uasset'
+[2021.09.07-05.08.03:914][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/17_SpriteA9CD5D6E4176A5BA3B179E85BE2849B7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/17_Sprite.uasset'
+[2021.09.07-05.08.03:920][598]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/18_Sprite34F2EE8B4124B5924E3997A0C03C0714.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/18_Sprite.uasset'
+[2021.09.07-05.08.04:102][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.09.07-05.08.04:122][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.04:134][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.04:147][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.04:159][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.04:171][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:184][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:196][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:209][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.07-05.08.04:221][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:233][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:246][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:259][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:271][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.04:283][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.07-05.08.04:300][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.09.07-05.08.04:313][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.07-05.08.04:347][598]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/18_Sprite.18_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/17_Sprite.17_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/16_Sprite.16_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/15_Sprite.15_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/14_Sprite.14_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/13_Sprite.13_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/12_Sprite.12_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/11_Sprite.11_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/10_Sprite.10_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/1_Sprite.1_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/6_Sprite.6_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/5_Sprite.5_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/4_Sprite.4_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/3_Sprite.3_Sprite
+[2021.09.07-05.08.04:347][598]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/2_Sprite.2_Sprite
+[2021.09.07-05.08.21:260][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/7_SpriteDB6729C24D003DE713A004A2FF76B975.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/7_Sprite.uasset'
+[2021.09.07-05.08.21:266][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/8_SpriteE12ACF984A5311F8CDDEB48AD8842D09.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/8_Sprite.uasset'
+[2021.09.07-05.08.21:273][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/9_SpriteCBD6424B4ECE101D7E8086989179FEB7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/9_Sprite.uasset'
+[2021.09.07-05.08.21:280][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/BG_SpriteCFE39A4E4DD36943E5FFBA82D7F4D70D.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/BG_Sprite.uasset'
+[2021.09.07-05.08.21:286][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__1__SpriteBF5A519746B39A0A9CDC56861DB5AA4D.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Bush__1__Sprite.uasset'
+[2021.09.07-05.08.21:293][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__2__Sprite176D404E4BC3FEF8A0212784F5A5A96E.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Bush__2__Sprite.uasset'
+[2021.09.07-05.08.21:299][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__3__SpriteDD0382AA4E7783331B0329AF612EE85E.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Bush__3__Sprite.uasset'
+[2021.09.07-05.08.21:305][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bush__4__SpriteFE57ECD9434F1239FC1D9897096D9F16.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Bush__4__Sprite.uasset'
+[2021.09.07-05.08.21:312][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Crate_Sprite267FA35C48A8AF5E2C1E8481B8EBEDAF.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Crate_Sprite.uasset'
+[2021.09.07-05.08.21:319][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_1_Sprite84BB113446A9CAC1D0CC779ADAD79B2C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Mushroom_1_Sprite.uasset'
+[2021.09.07-05.08.21:326][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Mushroom_2_SpriteF780E9F0479F5D6A788E8299D89FAEE7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Mushroom_2_Sprite.uasset'
+[2021.09.07-05.08.21:332][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_1_Sprite6A86F9E04BA8679D985D1483458A024F.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Sign_1_Sprite.uasset'
+[2021.09.07-05.08.21:339][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Sign_2_Sprite65AD4D9F41114B61EF0CEA98F3BAAFB3.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Sign_2_Sprite.uasset'
+[2021.09.07-05.08.21:345][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Stone_SpriteDA570F13463C8A5F642EDCA5742877E4.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Stone_Sprite.uasset'
+[2021.09.07-05.08.21:352][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_1_Sprite1DCFD1744F73429D19D088BE8EC903C6.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Tree_1_Sprite.uasset'
+[2021.09.07-05.08.21:358][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_2_SpriteC43A53EB403E6E5E854AD68792604156.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Tree_2_Sprite.uasset'
+[2021.09.07-05.08.21:365][795]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Tree_3_SpriteE3D2F04F4A8CC0D88D5321A0A52CF11C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Sprites/SpriteFiles/Tree_3_Sprite.uasset'
+[2021.09.07-05.08.21:534][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.07-05.08.21:549][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:562][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.21:574][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.07-05.08.21:587][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.07-05.08.21:599][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.07-05.08.21:613][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:625][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:637][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:649][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:661][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:673][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:685][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:697][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:709][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:721][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:735][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:752][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.09.07-05.08.21:765][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.07-05.08.21:793][795]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-05.08.21:793][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/BG_Sprite.BG_Sprite
+[2021.09.07-05.08.21:793][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Tree_3_Sprite.Tree_3_Sprite
+[2021.09.07-05.08.21:793][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Tree_2_Sprite.Tree_2_Sprite
+[2021.09.07-05.08.21:793][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Tree_1_Sprite.Tree_1_Sprite
+[2021.09.07-05.08.21:793][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Stone_Sprite.Stone_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Sign_2_Sprite.Sign_2_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Sign_1_Sprite.Sign_1_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Mushroom_2_Sprite.Mushroom_2_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Mushroom_1_Sprite.Mushroom_1_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Crate_Sprite.Crate_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Bush__4__Sprite.Bush__4__Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Bush__3__Sprite.Bush__3__Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Bush__2__Sprite.Bush__2__Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/Bush__1__Sprite.Bush__1__Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/9_Sprite.9_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/8_Sprite.8_Sprite
+[2021.09.07-05.08.21:794][795]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/SpriteFiles/7_Sprite.7_Sprite
+[2021.09.07-05.10.20:836][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.09.07-05.10.20:849][874]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMap6A4DCD15446B694B25B1DB978BB75557.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.09.07-05.10.20:854][874]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMap_BuiltDa72EB10E3417708F1C3A4F2B2D5B444F0.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.09.07-05.10.20:863][874]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-05.10.20:863][874]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.09.07-05.10.20:863][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
