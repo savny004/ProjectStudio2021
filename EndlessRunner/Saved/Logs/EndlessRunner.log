@@ -1247,3 +1247,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-04.55.50:197][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.09.07-04.55.50:199][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2021.09.07-04.55.50:224][171]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.07-04.56.42:522][ 42]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.07-04.57.05:220][117]BlueprintLog: New page: Compile BulletTrap2
+[2021.09.07-04.57.05:260][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.09.07-04.57.06:027][169]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/BulletTrap2CA844535493358C45BC18DB0874796C7.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/BulletTrap2.uasset'
+[2021.09.07-04.57.06:037][169]AssetCheck: New page: Asset Save: BulletTrap2
+[2021.09.07-04.57.06:037][169]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/BulletTrap2.BulletTrap2
+[2021.09.07-04.57.10:409][573]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-04.57.10:409][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-04.57.11:253][652]LogSlate: Window 'ExplodingBox' being destroyed
+[2021.09.07-04.57.11:330][652]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.07-04.57.11:330][652]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-04.57.11:330][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-04.57.13:984][939]LogEditorViewport: Clicking on Actor (LMB): ExplodingBox_C (ExplodingBox)
+[2021.09.07-04.57.16:535][243]Cmd: EDIT COPY
+[2021.09.07-04.57.17:819][397]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.07-04.57.18:618][490]Cmd: EDIT PASTE
+[2021.09.07-04.57.23:523][ 75]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.07-04.57.26:196][380]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.07-04.57.27:043][481]LogEditorViewport: Clicking on Actor (LMB): ExplodingBox_C (ExplodingBox2)
+[2021.09.07-04.57.31:451][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2021.09.07-04.57.32:194][ 76]Cmd: DELETE
+[2021.09.07-04.57.32:194][ 76]Cmd: ACTOR DELETE
+[2021.09.07-04.57.32:195][ 76]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.09.07-04.57.32:238][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.07-04.57.32:243][ 76]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.09.07-04.57.33:072][176]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.09.07-04.57.34:558][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.09.07-04.57.34:567][324]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMap88D634CF426475D719052D868CADF865.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.09.07-04.57.34:572][324]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/2DSideScrollerExampleMap_BuiltDaDB51CE52455FEEB2340AA685E306F77C.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.09.07-04.57.34:579][324]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.07-04.57.34:579][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.09.07-04.57.34:579][324]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.09.07-04.57.38:189][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Traps/ExplodingBox.ExplodingBox
+[2021.09.07-04.57.54:247][215]BlueprintLog: New page: Compile ExplodingBox
+[2021.09.07-04.57.54:280][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.07-04.57.54:949][259]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/ExplodingBox0E4580E44C9B9AC4A46502892AD1C676.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Traps/ExplodingBox.uasset'
+[2021.09.07-04.57.54:958][259]AssetCheck: New page: Asset Save: ExplodingBox
+[2021.09.07-04.57.54:958][259]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Traps/ExplodingBox.ExplodingBox
+[2021.09.07-04.57.56:171][354]LogSlate: Window 'ExplodingBox' being destroyed
+[2021.09.07-04.57.56:240][354]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-04.57.56:240][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
