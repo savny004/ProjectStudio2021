@@ -1221,3 +1221,470 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.12-23.49.42:621][924]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Dead/Dead__3_.Dead__3_
 [2021.09.12-23.49.42:621][924]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Dead/Dead__2_.Dead__2_
 [2021.09.12-23.49.42:621][924]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Dead/Dead__1_.Dead__1_
+[2021.09.12-23.50.43:335][967]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeadEADB3A774A595F73F13B108E1F88B41A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Dead.uasset'
+[2021.09.12-23.50.43:414][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.09.12-23.50.43:431][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.09.12-23.50.43:437][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.12-23.50.43:486][967]AssetCheck: New page: Asset Save: Dead
+[2021.09.12-23.50.43:487][967]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Dead.Dead
+[2021.09.12-23.50.51:913][450]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeadFinish63818D4D43EAF99950A8B7B8C08BE12A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/DeadFinish.uasset'
+[2021.09.12-23.50.51:989][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.09.12-23.50.52:005][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.09.12-23.50.52:012][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.12-23.50.52:045][450]AssetCheck: New page: Asset Save: DeadFinish
+[2021.09.12-23.50.52:045][450]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/DeadFinish.DeadFinish
+[2021.09.12-23.51.00:425][936]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle4F39A8B14C60B06B494776A20F5568C5.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Idle.uasset'
+[2021.09.12-23.51.00:484][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.12-23.51.00:496][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.12-23.51.00:501][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.12-23.51.00:532][936]AssetCheck: New page: Asset Save: Idle
+[2021.09.12-23.51.00:532][936]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Idle.Idle
+[2021.09.12-23.51.06:324][267]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump195DD88B42D91F2F80FFD4B6D68B854E.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Jump.uasset'
+[2021.09.12-23.51.06:400][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.12-23.51.06:416][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.12-23.51.06:422][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.12-23.51.06:456][267]AssetCheck: New page: Asset Save: Jump
+[2021.09.12-23.51.06:456][267]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Jump.Jump
+[2021.09.12-23.51.11:621][561]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot094F3CDF49C2729AB7F713966B74FDD2.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/JumpShoot.uasset'
+[2021.09.12-23.51.11:680][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.12-23.51.11:694][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.12-23.51.11:700][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.12-23.51.11:735][561]AssetCheck: New page: Asset Save: JumpShoot
+[2021.09.12-23.51.11:735][561]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/JumpShoot.JumpShoot
+[2021.09.12-23.51.18:420][943]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run39A7D8E5482F3B9CA1FBC78C03219440.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Run.uasset'
+[2021.09.12-23.51.18:494][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.12-23.51.18:507][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.12-23.51.18:512][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.12-23.51.18:544][943]AssetCheck: New page: Asset Save: Run
+[2021.09.12-23.51.18:545][943]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Run.Run
+[2021.09.12-23.51.23:450][225]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/RunShoot5591E8C24B1ED9091814C78133E43872.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/RunShoot.uasset'
+[2021.09.12-23.51.23:526][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.12-23.51.23:540][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.12-23.51.23:548][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.12-23.51.23:581][225]AssetCheck: New page: Asset Save: RunShoot
+[2021.09.12-23.51.23:581][225]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/RunShoot.RunShoot
+[2021.09.12-23.51.28:651][522]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot470A6FC444A88EF049C265A6C1D1CB30.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Shoot.uasset'
+[2021.09.12-23.51.28:721][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.09.12-23.51.28:736][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.09.12-23.51.28:741][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.12-23.51.28:777][522]AssetCheck: New page: Asset Save: Shoot
+[2021.09.12-23.51.28:777][522]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Flipbooks/Shoot.Shoot
+[2021.09.12-23.51.30:967][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.12-23.51.31:021][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__1_344137A441A3AA0317F632A8C6EAA59F.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__1_.uasset'
+[2021.09.12-23.51.31:043][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__2_4BFECAE04B582571ED0159A8A569D238.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__2_.uasset'
+[2021.09.12-23.51.31:065][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__3_B2F911F7441476003978E2A14DC49514.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__3_.uasset'
+[2021.09.12-23.51.31:087][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__4_05D35D344D1B727CC21C0EBE651695D7.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__4_.uasset'
+[2021.09.12-23.51.31:109][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__5_2FB4C7C740C70D77F97F8498C6D67008.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__5_.uasset'
+[2021.09.12-23.51.31:131][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__6_4C9B360149BF23ACCB0238A2FF55DAF1.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__6_.uasset'
+[2021.09.12-23.51.31:153][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__7_107D409A4574A76F7804FB878471269B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__7_.uasset'
+[2021.09.12-23.51.31:176][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__8_F9C02DAB4AB7C93843A709A5476402B1.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__8_.uasset'
+[2021.09.12-23.51.31:198][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__9_CD7EF5594AE67A87AE9A10AAA66FC202.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__9_.uasset'
+[2021.09.12-23.51.31:225][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__10_2A3014AD45C9662584B22BA88CEEB436.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__10_.uasset'
+[2021.09.12-23.51.31:247][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__1_B2A72B594F2F23B234FC65987AEA760F.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__1_.uasset'
+[2021.09.12-23.51.31:270][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__2_239924B349F3DF2919482CAD804B9B6A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__2_.uasset'
+[2021.09.12-23.51.31:293][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__3_653DCB254E4D53903F42D280C752C1A4.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__3_.uasset'
+[2021.09.12-23.51.31:315][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__4_32C928064BC8F96157B5ADA14A6484E4.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__4_.uasset'
+[2021.09.12-23.51.31:338][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__5_08E575FC49F55F9A593F85B264D5C10B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__5_.uasset'
+[2021.09.12-23.51.31:361][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__6_BB9E4B5F45A55FD52AED88B315C168FE.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__6_.uasset'
+[2021.09.12-23.51.31:384][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__7_C9EE46C24CD8AEAA4F0534B43E427DFD.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__7_.uasset'
+[2021.09.12-23.51.31:408][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__8_BE0C1C704AA9C059C227F68443E24F25.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__8_.uasset'
+[2021.09.12-23.51.31:430][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__9_37AE48634F54681B7DB44EBC17E6BB71.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__9_.uasset'
+[2021.09.12-23.51.31:452][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__10_29C249E84497F65224D8B894CC235CF0.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__10_.uasset'
+[2021.09.12-23.51.31:474][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__1_AFBCF8D54F6D3F67B1B5AAA701B4DC69.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__1_.uasset'
+[2021.09.12-23.51.31:496][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__2_8E32141C4F8C81C57723719C706A7ADA.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__2_.uasset'
+[2021.09.12-23.51.31:518][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__3_C15C8F3A4377CFFB354694B388B790A5.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__3_.uasset'
+[2021.09.12-23.51.31:542][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__4_B6F719954117469B9266B1B44234F64B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__4_.uasset'
+[2021.09.12-23.51.31:564][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__5_A1E57FD744FEB7323F4DE0866E25BB72.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__5_.uasset'
+[2021.09.12-23.51.31:586][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__1_D6A294C04471E4329C31389E4FA1AD5A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__1_.uasset'
+[2021.09.12-23.51.31:609][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__2_25913B514D72DF0758665793753E48DD.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__2_.uasset'
+[2021.09.12-23.51.31:631][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__3_40EAF07246296D185E89379E4649DEB7.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__3_.uasset'
+[2021.09.12-23.51.31:653][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__4_174788644C35D2EFBAB8A4945E04C13C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__4_.uasset'
+[2021.09.12-23.51.31:676][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__5_8D8F5ADF4A3377FB0E4612A6989B6AB9.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__5_.uasset'
+[2021.09.12-23.51.31:698][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__6_246CFC2B4FC90485FFEC3589D424CBE9.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__6_.uasset'
+[2021.09.12-23.51.31:721][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__7_830F8C904A09794CC4765C962475AE9E.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__7_.uasset'
+[2021.09.12-23.51.31:744][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__8_B73B38764BCD42437B47B7BF157A219A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__8_.uasset'
+[2021.09.12-23.51.31:766][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__1_44E0DD934494F070F4FB76A9AA68C3A3.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__1_.uasset'
+[2021.09.12-23.51.31:789][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__2_876DBDC24D690CC761C72A9FE1190D2A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__2_.uasset'
+[2021.09.12-23.51.31:815][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__3_E12FE2824078AD32B27538A5C081EDA0.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__3_.uasset'
+[2021.09.12-23.51.31:837][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__4_107E1DC048AD758514ED3DA622319046.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__4_.uasset'
+[2021.09.12-23.51.31:850][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__1__Sprite5F508EAA44060F7DAAC0D6A5E484FA75.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__1__Sprite.uasset'
+[2021.09.12-23.51.31:864][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__2__Sprite0992DD4A407C79F6CC6CF5BD66CA3056.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__2__Sprite.uasset'
+[2021.09.12-23.51.31:877][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__3__SpriteF48D2F254F0619E453A46D83FD04221B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__3__Sprite.uasset'
+[2021.09.12-23.51.31:890][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shoot__4__Sprite6E4CF11740513F32ABA2E7A729F9787C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__4__Sprite.uasset'
+[2021.09.12-23.51.31:904][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__1__Sprite94F17D014B3C422940F035B29255D4C9.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__1__Sprite.uasset'
+[2021.09.12-23.51.31:917][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__2__Sprite6891E08D4B0DFF9A7AF2AB95D3A3B6A1.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__2__Sprite.uasset'
+[2021.09.12-23.51.31:931][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__3__Sprite8E57FD1E4B14035B306383ACB151F307.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__3__Sprite.uasset'
+[2021.09.12-23.51.31:944][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__4__SpriteF07DC23E4E822A4BBA524F845D71FFF1.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__4__Sprite.uasset'
+[2021.09.12-23.51.31:957][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__5__SpriteE5510E5B4A9DF95E19F3B9BACCBE5534.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__5__Sprite.uasset'
+[2021.09.12-23.51.31:970][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__6__Sprite19126C5542F5E6797269CCACC05AB118.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__6__Sprite.uasset'
+[2021.09.12-23.51.31:984][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__7__Sprite954C1BDA4FEE1B54F566B686CB142CF9.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__7__Sprite.uasset'
+[2021.09.12-23.51.31:998][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Run__8__SpriteDDE2F5DC4F88D5D13F2ABB8D3832E62B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__8__Sprite.uasset'
+[2021.09.12-23.51.32:013][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__1__Sprite82C77E454BD15988028A129622E91761.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__1__Sprite.uasset'
+[2021.09.12-23.51.32:027][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__2__SpriteE6BDC75949E1CCC0383ACE9DF6FB87EF.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__2__Sprite.uasset'
+[2021.09.12-23.51.32:041][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__3__Sprite4CBB99574288D0201890508167691B5A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__3__Sprite.uasset'
+[2021.09.12-23.51.32:055][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__4__SpriteADF4387547C12F377B2140B322D9CEAF.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__4__Sprite.uasset'
+[2021.09.12-23.51.32:068][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/JumpShoot__5__Sprite24D8850C487F5E86292B4EBA06783DC4.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__5__Sprite.uasset'
+[2021.09.12-23.51.32:081][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__1__Sprite8EBD710C428975B334B18FA77AAEB8EF.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__1__Sprite.uasset'
+[2021.09.12-23.51.32:095][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__10__Sprite9E5B1A424AF07B7C89F991BABE388EB4.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__10__Sprite.uasset'
+[2021.09.12-23.51.32:109][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__2__Sprite099A18A143487E61CE4ACB910E668FB1.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__2__Sprite.uasset'
+[2021.09.12-23.51.32:122][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__3__Sprite2D324CE647F4FEC2838F349B58230BCA.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__3__Sprite.uasset'
+[2021.09.12-23.51.32:136][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__4__Sprite9EC28C6A4634A526572715A93FDC58EA.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__4__Sprite.uasset'
+[2021.09.12-23.51.32:150][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__5__SpriteDC6E028F4D27E4D3F061D9BE79E5B4EC.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__5__Sprite.uasset'
+[2021.09.12-23.51.32:164][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__6__Sprite4F4B0C84497A677345E6B5AF4E1447F0.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__6__Sprite.uasset'
+[2021.09.12-23.51.32:177][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__7__Sprite7C7BF5194FA507F0A68C35B318D66F09.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__7__Sprite.uasset'
+[2021.09.12-23.51.32:191][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__8__Sprite61216254402C008FD789D3AA4A4276B8.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__8__Sprite.uasset'
+[2021.09.12-23.51.32:206][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Jump__9__Sprite0BC52AD84AF3816306D0AAADCF07D030.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__9__Sprite.uasset'
+[2021.09.12-23.51.32:220][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__1__SpriteEE72F9654A4E37C808EF90BFB4D93F28.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__1__Sprite.uasset'
+[2021.09.12-23.51.32:234][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__2__Sprite4D4A9B004B62E0189C1C1CA588E718A0.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__2__Sprite.uasset'
+[2021.09.12-23.51.32:248][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__3__SpriteD121FB724B015905EE051FA81AF88BDC.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__3__Sprite.uasset'
+[2021.09.12-23.51.32:261][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__4__Sprite8CC7C6DB4097253F0895838B61174A09.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__4__Sprite.uasset'
+[2021.09.12-23.51.32:275][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__5__Sprite537659C3473B5793412C26AC6F2239D7.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__5__Sprite.uasset'
+[2021.09.12-23.51.32:289][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__6__Sprite403D80D44541FA159175ECBEE10C2FE6.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__6__Sprite.uasset'
+[2021.09.12-23.51.32:302][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__7__SpriteDBF65C2247A02046CBDA03BFC0F63778.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__7__Sprite.uasset'
+[2021.09.12-23.51.32:317][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__8__Sprite6F1F78F84FD8F5BD0F47D3909220D215.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__8__Sprite.uasset'
+[2021.09.12-23.51.32:331][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__9__Sprite8FE86DDC419DAAEB821C4CB17FD40EEB.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__9__Sprite.uasset'
+[2021.09.12-23.51.32:345][653]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Idle__10__SpriteA1AA22C64587544542CBE6BBBF29C7C3.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__10__Sprite.uasset'
+[2021.09.12-23.51.32:366][653]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__10__Sprite.Idle__10__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__9__Sprite.Idle__9__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__8__Sprite.Idle__8__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__7__Sprite.Idle__7__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__6__Sprite.Idle__6__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__5__Sprite.Idle__5__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__4__Sprite.Idle__4__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__3__Sprite.Idle__3__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__2__Sprite.Idle__2__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__1__Sprite.Idle__1__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__9__Sprite.Jump__9__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__8__Sprite.Jump__8__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__7__Sprite.Jump__7__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__6__Sprite.Jump__6__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__5__Sprite.Jump__5__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__4__Sprite.Jump__4__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__3__Sprite.Jump__3__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__2__Sprite.Jump__2__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__10__Sprite.Jump__10__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__1__Sprite.Jump__1__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__5__Sprite.JumpShoot__5__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__4__Sprite.JumpShoot__4__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__3__Sprite.JumpShoot__3__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__2__Sprite.JumpShoot__2__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__1__Sprite.JumpShoot__1__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__8__Sprite.Run__8__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__7__Sprite.Run__7__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__6__Sprite.Run__6__Sprite
+[2021.09.12-23.51.32:366][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__5__Sprite.Run__5__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__4__Sprite.Run__4__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__3__Sprite.Run__3__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__2__Sprite.Run__2__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__1__Sprite.Run__1__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__4__Sprite.Shoot__4__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__3__Sprite.Shoot__3__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__2__Sprite.Shoot__2__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__1__Sprite.Shoot__1__Sprite
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__4_.Shoot__4_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__3_.Shoot__3_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__2_.Shoot__2_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Shoot/Shoot__1_.Shoot__1_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__8_.Run__8_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__7_.Run__7_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__6_.Run__6_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__5_.Run__5_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__4_.Run__4_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__3_.Run__3_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__2_.Run__2_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Running/Run__1_.Run__1_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__5_.JumpShoot__5_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__4_.JumpShoot__4_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__3_.JumpShoot__3_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__2_.JumpShoot__2_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/JumpShoot/JumpShoot__1_.JumpShoot__1_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__10_.Jump__10_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__9_.Jump__9_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__8_.Jump__8_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__7_.Jump__7_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__6_.Jump__6_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__5_.Jump__5_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__4_.Jump__4_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__3_.Jump__3_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__2_.Jump__2_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Jumping/Jump__1_.Jump__1_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__10_.Idle__10_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__9_.Idle__9_
+[2021.09.12-23.51.32:367][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__8_.Idle__8_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__7_.Idle__7_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__6_.Idle__6_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__5_.Idle__5_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__4_.Idle__4_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__3_.Idle__3_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__2_.Idle__2_
+[2021.09.12-23.51.32:368][653]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/IG-88/Sprites/Idle/Idle__1_.Idle__1_
+[2021.09.12-23.51.59:676][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.09.12-23.52.11:156][891]LogContentBrowser: Attempting asset rename: Bullet_2 -> Shot
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.SKEL_Shot_C' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot_C' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.SKEL_Shot_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.SKEL_Shot_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.SKEL_Shot_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:186][891]LogMetaData: Removing '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.SKEL_Shot_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Bullet_2.PackageMetaData'
+[2021.09.12-23.52.11:231][891]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/ShotFEC39DD04F97B5F79EA4DB8A3228313B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.uasset'
+[2021.09.12-23.52.11:305][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.12-23.52.11:320][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.12-23.52.11:326][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.12-23.52.11:351][891]AssetCheck: New page: Asset Save: Shot
+[2021.09.12-23.52.11:351][891]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot
+[2021.09.12-23.52.12:685][969]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot
+[2021.09.12-23.52.13:016][969]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.12-23.52.14:217][969]LogSlate: Took 0.001183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.12-23.52.19:456][259]LogRenderer: Reallocating scene render targets to support 804x424 Format 10 NumSamples 1 (Frame:1).
+[2021.09.12-23.52.57:147][412]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.12-23.52.57:161][412]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.12-23.53.00:210][595]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2021.09.12-23.53.00:211][595]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.12-23.53.12:653][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Downloads\robotfree\png\Objects\Bullet_000.png)
+[2021.09.12-23.53.12:655][858]LogTexture: Display: Building textures: Bullet_000 (BGRA8, 172X139)
+[2021.09.12-23.53.12:661][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Downloads\robotfree\png\Objects\Bullet_001.png)
+[2021.09.12-23.53.12:663][858]LogTexture: Display: Building textures: Bullet_001 (BGRA8, 172X139)
+[2021.09.12-23.53.12:668][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Downloads\robotfree\png\Objects\Bullet_002.png)
+[2021.09.12-23.53.12:670][858]LogTexture: Display: Building textures: Bullet_002 (BGRA8, 172X139)
+[2021.09.12-23.53.12:673][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Downloads\robotfree\png\Objects\Bullet_003.png)
+[2021.09.12-23.53.12:675][858]LogTexture: Display: Building textures: Bullet_003 (BGRA8, 172X139)
+[2021.09.12-23.53.12:678][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Downloads\robotfree\png\Objects\Bullet_004.png)
+[2021.09.12-23.53.12:680][858]LogTexture: Display: Building textures: Bullet_004 (BGRA8, 172X139)
+[2021.09.12-23.53.26:762][595]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2021.09.12-23.53.26:763][595]LogContentBrowser: Deferred new asset file creation: Bullet
+[2021.09.12-23.53.26:782][595]LogContentBrowser: Creating deferred item: Bullet
+[2021.09.12-23.53.28:569][703]LogContentBrowser: Attempting asset rename: Bullet -> Bullet
+[2021.09.12-23.53.28:570][703]LogContentBrowser: End creating deferred item Bullet
+[2021.09.12-23.53.31:813][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.09.12-23.53.31:820][886]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner7C0C00154227150054F9C1A7AF71AD1B.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.09.12-23.53.31:855][886]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.09.12-23.53.31:855][886]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.12-23.55.01:535][100]BlueprintLog: New page: Compile Shot
+[2021.09.12-23.55.01:576][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.12-23.55.01:615][100]LogSlate: Took 0.007507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.12-23.55.02:184][131]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shot260D673A4A1821C1A7A2C3B8560DF48C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.uasset'
+[2021.09.12-23.55.02:208][131]AssetCheck: New page: Asset Save: Shot
+[2021.09.12-23.55.02:208][131]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot
+[2021.09.12-23.55.13:867][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_00070FCF67C49FEF0F09091D6AF269717CB.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_000.uasset'
+[2021.09.12-23.55.13:887][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_0016B0FD98541B0A5761EBBC08A12F3D271.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_001.uasset'
+[2021.09.12-23.55.13:901][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_002243CD489484DBBDD3C318685EDA86A8D.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_002.uasset'
+[2021.09.12-23.55.13:917][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_00301AEEB954292B177DEBC149DCAF52DE7.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_003.uasset'
+[2021.09.12-23.55.13:929][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_004E00758884122E1FD1169F8A37797B5C8.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_004.uasset'
+[2021.09.12-23.55.13:944][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_000_SpriteAA660A474163A89E1407B8A6B50BCF33.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_000_Sprite.uasset'
+[2021.09.12-23.55.13:959][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_001_SpriteE2DC78E342DE43C6E5F4DEA56268CC32.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_001_Sprite.uasset'
+[2021.09.12-23.55.13:973][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_002_SpriteE6EA9B624A814BBE5B9F8CAA75AB5C99.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_002_Sprite.uasset'
+[2021.09.12-23.55.13:986][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_003_Sprite6CAC2E874ACED820479DD4B0A77ED0E2.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_003_Sprite.uasset'
+[2021.09.12-23.55.13:999][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet_004_SpriteECE5D6754BF0A88A499AEC88481123D2.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_004_Sprite.uasset'
+[2021.09.12-23.55.14:011][803]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Bullet901540D34BBB3F20AEBADABCB5BD920D.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet.uasset'
+[2021.09.12-23.55.14:028][803]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_000.Bullet_000
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_001.Bullet_001
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_002.Bullet_002
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_003.Bullet_003
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_004.Bullet_004
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_000_Sprite.Bullet_000_Sprite
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_001_Sprite.Bullet_001_Sprite
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_002_Sprite.Bullet_002_Sprite
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_003_Sprite.Bullet_003_Sprite
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet_004_Sprite.Bullet_004_Sprite
+[2021.09.12-23.55.14:028][803]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Sprites/Bullet.Bullet
+[2021.09.12-23.55.24:246][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.15:029][556]BlueprintLog: New page: Compile EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.15:109][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.09.12-23.57.16:220][605]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunnerSideScrollerCharact9ABC2B404290117A7C77EDA753EE0E2C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.uasset'
+[2021.09.12-23.57.16:234][605]AssetCheck: New page: Asset Save: EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.16:235][605]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.51:588][719]BlueprintLog: New page: Compile EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.51:659][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.09.12-23.57.52:163][732]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunnerSideScrollerCharactE07F0DE4425440C2AA41918E7560EB5F.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.uasset'
+[2021.09.12-23.57.52:175][732]AssetCheck: New page: Asset Save: EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.52:175][732]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.12-23.57.55:141][908]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-23.57.55:141][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.57.56:324][975]LogSlate: Window 'Shot' being destroyed
+[2021.09.12-23.57.56:343][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.12-23.57.56:343][975]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-23.57.56:343][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.58.01:060][247]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-23.58.01:082][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-23.58.01:083][247]PIE: New page: PIE session: EndlessRunner (13 Sep 2021, 6:58:01 pm)
+[2021.09.12-23.58.01:098][247]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.12-23.58.01:100][247]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.12-23.58.01:102][247]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.58.01:107][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005207s)
+[2021.09.12-23.58.01:109][247]LogAIModule: Creating AISystem for world EndlessRunner
+[2021.09.12-23.58.01:111][247]LogPlayLevel: PIE: World Init took: (0.003781s)
+[2021.09.12-23.58.01:111][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner to /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner (0.009199s)
+[2021.09.12-23.58.01:139][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.09.12-23.58.01:146][247]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-23.58.01:146][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-23.58.01:146][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.12-23.58.01:146][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.12-23.58.01:146][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.12-23.58.01:146][247]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 4: BackLeft
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 5: BackRight
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 6: SideLeft
+[2021.09.12-23.58.01:163][247]LogAudioMixer: Display: 7: SideRight
+[2021.09.12-23.58.01:284][247]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.12-23.58.01:284][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-23.58.01:284][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-23.58.01:284][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-23.58.01:285][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-23.58.01:285][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.12-23.58.01:285][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.12-23.58.01:286][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.12-23.58.01:286][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.12-23.58.01:286][247]LogInit: FAudioDevice initialized.
+[2021.09.12-23.58.01:286][247]LogAudio: Display: Audio Device (ID: 2) registered with world 'EndlessRunner'.
+[2021.09.12-23.58.01:305][247]LogLoad: Game class is 'EndlessRunnerGameMode_C'
+[2021.09.12-23.58.01:323][247]LogWorld: Bringing World /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2021.09.13-09.28.01
+[2021.09.12-23.58.01:326][247]LogWorld: Bringing up level for play took: 0.002520
+[2021.09.12-23.58.01:328][247]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.09.12-23.58.01:372][247]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.09.12-23.58.01:430][247]PIE: Server logged in
+[2021.09.12-23.58.01:431][247]PIE: Play in editor total start time 0.363 seconds.
+[2021.09.12-23.58.01:791][248]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077260 > MaxSimulationTimeStep (0.050) for 'EndlessRunnerSideScrollerCharacter_C_0', movement 'Walking'
+[2021.09.12-23.58.01:815][249]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.107844 > MaxSimulationTimeStep (0.050) for 'EndlessRunnerSideScrollerCharacter_C_0', movement 'Walking'
+[2021.09.12-23.58.09:442][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.58.09:442][703]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.58.09:444][703]LogWorld: UWorld::CleanupWorld for EndlessRunner, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-23.58.09:445][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.58.09:459][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-23.58.09:465][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.58.09:481][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.12-23.58.09:491][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.58.09:493][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.58.09:503][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.58.09:555][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.09.12-23.58.09:577][704]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.09.12-23.58.11:520][816]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-23.58.11:538][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-23.58.11:538][816]PIE: New page: PIE session: EndlessRunner (13 Sep 2021, 6:58:11 pm)
+[2021.09.12-23.58.11:538][816]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.58.11:539][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000786s)
+[2021.09.12-23.58.11:539][816]LogAIModule: Creating AISystem for world EndlessRunner
+[2021.09.12-23.58.11:540][816]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2021.09.12-23.58.11:540][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner to /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner (0.002516s)
+[2021.09.12-23.58.11:598][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.09.12-23.58.11:599][816]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.12-23.58.11:599][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-23.58.11:599][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-23.58.11:600][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-23.58.11:600][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-23.58.11:600][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-23.58.11:600][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-23.58.11:600][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-23.58.11:600][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-23.58.11:600][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.12-23.58.11:600][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.12-23.58.11:600][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.12-23.58.11:601][816]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 4: BackLeft
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 5: BackRight
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 6: SideLeft
+[2021.09.12-23.58.11:619][816]LogAudioMixer: Display: 7: SideRight
+[2021.09.12-23.58.11:734][816]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.12-23.58.11:735][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-23.58.11:735][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-23.58.11:735][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-23.58.11:735][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-23.58.11:735][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.12-23.58.11:735][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.12-23.58.11:737][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.12-23.58.11:737][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.12-23.58.11:737][816]LogInit: FAudioDevice initialized.
+[2021.09.12-23.58.11:737][816]LogAudio: Display: Audio Device (ID: 3) registered with world 'EndlessRunner'.
+[2021.09.12-23.58.11:754][816]LogLoad: Game class is 'EndlessRunnerGameMode_C'
+[2021.09.12-23.58.11:755][816]LogWorld: Bringing World /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2021.09.13-09.28.11
+[2021.09.12-23.58.11:756][816]LogWorld: Bringing up level for play took: 0.000322
+[2021.09.12-23.58.11:756][816]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.09.12-23.58.11:770][816]PIE: Server logged in
+[2021.09.12-23.58.11:771][816]PIE: Play in editor total start time 0.242 seconds.
+[2021.09.12-23.58.21:690][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.58.21:690][407]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.58.21:690][407]LogWorld: UWorld::CleanupWorld for EndlessRunner, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-23.58.21:691][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.58.21:701][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-23.58.21:705][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.58.21:719][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.12-23.58.21:720][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.58.21:721][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.58.21:728][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.58.21:732][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.09.12-23.58.21:748][408]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.12-23.58.22:499][453]LogEditorViewport: Clicking Background
+[2021.09.12-23.58.24:065][544]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-23.58.24:081][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-23.58.24:081][544]PIE: New page: PIE session: EndlessRunner (13 Sep 2021, 6:58:24 pm)
+[2021.09.12-23.58.24:081][544]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.58.24:082][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000730s)
+[2021.09.12-23.58.24:083][544]LogAIModule: Creating AISystem for world EndlessRunner
+[2021.09.12-23.58.24:083][544]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2021.09.12-23.58.24:083][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner to /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner (0.001753s)
+[2021.09.12-23.58.24:100][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.12-23.58.24:101][544]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-23.58.24:101][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-23.58.24:101][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.12-23.58.24:101][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.12-23.58.24:101][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.12-23.58.24:101][544]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 4: BackLeft
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 5: BackRight
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 6: SideLeft
+[2021.09.12-23.58.24:113][544]LogAudioMixer: Display: 7: SideRight
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-23.58.24:216][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.12-23.58.24:216][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.12-23.58.24:217][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.12-23.58.24:217][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.12-23.58.24:217][544]LogInit: FAudioDevice initialized.
+[2021.09.12-23.58.24:217][544]LogAudio: Display: Audio Device (ID: 4) registered with world 'EndlessRunner'.
+[2021.09.12-23.58.24:232][544]LogLoad: Game class is 'EndlessRunnerGameMode_C'
+[2021.09.12-23.58.24:234][544]LogWorld: Bringing World /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2021.09.13-09.28.24
+[2021.09.12-23.58.24:234][544]LogWorld: Bringing up level for play took: 0.000353
+[2021.09.12-23.58.24:234][544]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.09.12-23.58.24:244][544]PIE: Server logged in
+[2021.09.12-23.58.24:245][544]PIE: Play in editor total start time 0.171 seconds.
+[2021.09.12-23.59.03:389][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.59.03:389][889]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Levels/UEDPIE_0_EndlessRunner
+[2021.09.12-23.59.03:389][889]LogWorld: UWorld::CleanupWorld for EndlessRunner, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-23.59.03:391][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.59.03:403][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-23.59.03:408][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-23.59.03:432][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-23.59.03:432][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.59.03:434][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.12-23.59.03:449][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.09.12-23.59.03:470][890]LogPlayLevel: Display: Destroying online subsystem :Context_6
