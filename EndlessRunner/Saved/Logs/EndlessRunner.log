@@ -1688,3 +1688,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.12-23.59.03:434][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.12-23.59.03:449][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2021.09.12-23.59.03:470][890]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.09.13-00.14.44:503][ 76]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot
+[2021.09.13-00.15.04:112][188]BlueprintLog: New page: Compile Shot
+[2021.09.13-00.15.04:149][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.13-00.15.04:805][224]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Shot2F6AF7E04ABA3B535B2080AF3F890BA9.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.uasset'
+[2021.09.13-00.15.04:826][224]AssetCheck: New page: Asset Save: Shot
+[2021.09.13-00.15.04:826][224]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Characters/Animations/Sprites/Projectiles/Shot.Shot
+[2021.09.13-00.15.05:958][292]LogSlate: Window 'Shot' being destroyed
+[2021.09.13-00.15.05:973][292]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.15.05:973][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.15.58:490][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerGameMode.EndlessRunnerGameMode
+[2021.09.13-00.16.21:762][751]LogSlate: Window 'EndlessRunnerGameMode' being destroyed
+[2021.09.13-00.16.21:790][751]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.16.21:790][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.20.17:092][846]LogTexture: Display: Building textures: SNES_-_Super_Star_Wars_-_Han_Solo (BGRA8, 436X420)
+[2021.09.13-00.20.17:099][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.09.13-00.20.18:126][846]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.13-00.20.18:238][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.13-00.20.18:270][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.09.13-00.20.18:287][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.13-00.33.28:479][651]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Desktop\Stuff for UE4\IG-88 head.png)
+[2021.09.13-00.33.28:502][651]LogTexture: Display: Building textures: IG-88_head (BGRA8, 1293X1009)
+[2021.09.13-00.33.28:550][651]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Desktop\Stuff for UE4\IG-88 title.png)
+[2021.09.13-00.33.28:627][651]LogTexture: Display: Building textures: IG-88_title (BGRA8, 1293X1973)
+[2021.09.13-00.33.28:715][651]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Desktop\Stuff for UE4\robot broken.png)
+[2021.09.13-00.33.28:721][651]LogTexture: Display: Building textures: robot_broken (BGRA8, 452X258)
+[2021.09.13-00.33.34:343][943]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.13-00.35.03:487][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.09.13-00.35.03:489][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Levels/EndlessRunner' took 0.055
+[2021.09.13-00.35.03:490][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/DeathScreen] ([2] browsable assets)...
+[2021.09.13-00.35.03:490][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/DeathScreen]
+[2021.09.13-00.35.03:507][ 33]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen_Auto18C6774AF4843BC717D7A2689A6486AC0.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/Widgets/DeathScreen_Auto1.uasset'
+[2021.09.13-00.35.03:509][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/EndScreen/IG-88_head] ([1] browsable assets)...
+[2021.09.13-00.35.03:513][ 33]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/EndScreen/IG-88_head.IG-88_head]
+[2021.09.13-00.35.03:513][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/EndScreen/IG-88_head]
+[2021.09.13-00.35.03:520][ 33]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/IG-88_head_Auto1F1EE609B4B14421228AB34A8EF30C46C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/2DSideScrollerBP/EndScreen/IG-88_head_Auto1.uasset'
+[2021.09.13-00.35.03:522][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/EndScreen/IG-88_title] ([1] browsable assets)...
+[2021.09.13-00.35.03:526][ 33]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/EndScreen/IG-88_title.IG-88_title]
+[2021.09.13-00.35.03:526][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/EndScreen/IG-88_title]
+[2021.09.13-00.35.03:535][ 33]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/IG-88_title_Auto165855A54450C669850D1BBBCC81C437C.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/2DSideScrollerBP/EndScreen/IG-88_title_Auto1.uasset'
+[2021.09.13-00.35.03:537][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/EndScreen/robot_broken] ([1] browsable assets)...
+[2021.09.13-00.35.03:540][ 33]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/EndScreen/robot_broken.robot_broken]
+[2021.09.13-00.35.03:541][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/EndScreen/robot_broken]
+[2021.09.13-00.35.03:546][ 33]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/robot_broken_Auto137930EA14E0F2DF274CFA09655858F32.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/2DSideScrollerBP/EndScreen/robot_broken_Auto1.uasset'
+[2021.09.13-00.35.03:548][ 33]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.09.13-00.36.41:372][828]BlueprintLog: New page: Compile DeathScreen
+[2021.09.13-00.36.41:412][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.09.13-00.36.42:225][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.13-00.36.42:244][869]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen9DC8BED24C3DDBA5EC5B1CAE5B452D24.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.13-00.36.42:269][869]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.13-00.36.42:270][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.13-00.37.29:681][166]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.13-00.41.36:999][409]LogEditorFactories: Performing atomic reimport of [C:/Users/krill/Desktop/Stuff for UE4/restart button.png]
+[2021.09.13-00.41.36:999][409]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/krill/Desktop/Stuff for UE4/restart button.png)
+[2021.09.13-00.41.37:018][409]LogTexture: Display: Building textures: restart_button (BGRA8, 685X138)
+[2021.09.13-00.41.37:032][409]LogEditorFactories: -- imported successfully
+[2021.09.13-00.41.37:167][409]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Desktop\Stuff for UE4\quitbutton.png)
+[2021.09.13-00.41.37:169][409]LogTexture: Display: Building textures: quitbutton (BGRA8, 398X156)
+[2021.09.13-00.41.37:175][409]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\krill\Desktop\Stuff for UE4\gameover.png)
+[2021.09.13-00.41.37:179][409]LogTexture: Display: Building textures: gameover (BGRA8, 696X363)
+[2021.09.13-00.42.22:687][935]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.13-00.42.33:197][560]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.13-00.43.00:402][129]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.13-00.43.36:122][ 23]BlueprintLog: New page: Compile DeathScreen
+[2021.09.13-00.43.36:173][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.13-00.43.36:837][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.13-00.43.36:856][ 55]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreenA2B20CC94A688C448A989F82395442DD.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.13-00.43.36:877][ 55]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.13-00.43.36:878][ 55]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.13-00.43.37:521][ 94]LogSlate: Window 'DeathScreen' being destroyed
+[2021.09.13-00.43.37:537][ 94]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.43.37:537][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.43.37:547][ 94]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.43.37:547][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.43.44:799][514]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.13-00.44.01:242][443]LogSlate: Window 'EndlessRunnerSideScrollerCharacter' being destroyed
+[2021.09.13-00.44.01:292][443]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.44.01:292][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.44.02:657][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerGameMode.EndlessRunnerGameMode
+[2021.09.13-00.44.26:147][883]LogSlate: Window 'EndlessRunnerGameMode' being destroyed
+[2021.09.13-00.44.26:170][883]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.44.26:170][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.44.35:543][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.13-00.45.53:093][938]BlueprintLog: New page: Compile EndlessRunnerSideScrollerCharacter
+[2021.09.13-00.45.53:201][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.09.13-00.45.54:153][987]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunnerSideScrollerCharact245FC285459CD7314367D8AA8A7E930A.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.uasset'
+[2021.09.13-00.45.54:178][987]AssetCheck: New page: Asset Save: EndlessRunnerSideScrollerCharacter
+[2021.09.13-00.45.54:178][987]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerSideScrollerCharacter.EndlessRunnerSideScrollerCharacter
+[2021.09.13-00.45.55:172][ 47]LogSlate: Window 'EndlessRunnerSideScrollerCharacter' being destroyed
+[2021.09.13-00.45.55:190][ 47]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.45.55:190][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.45.56:788][137]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2021.09.13-00.45.59:543][276]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2021.09.13-00.45.59:571][276]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.45.59:571][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.45.59:638][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2021.09.13-00.46.03:901][499]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2021.09.13-00.46.03:926][499]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.46.03:926][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-00.46.12:350][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerGameMode.EndlessRunnerGameMode
+[2021.09.13-00.46.28:592][910]BlueprintLog: New page: Compile EndlessRunnerGameMode
+[2021.09.13-00.46.28:672][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.09.13-00.46.29:116][930]LogSavePackage: Moving '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunnerGameMode5524944246DB465332E61BB282B5C833.tmp' to '../../../../../../Users/krill/OneDrive/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Blueprints/EndlessRunnerGameMode.uasset'
+[2021.09.13-00.46.29:146][930]AssetCheck: New page: Asset Save: EndlessRunnerGameMode
+[2021.09.13-00.46.29:146][930]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/EndlessRunnerGameMode.EndlessRunnerGameMode
+[2021.09.13-00.46.29:924][977]LogSlate: Window 'EndlessRunnerGameMode' being destroyed
+[2021.09.13-00.46.29:936][977]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-00.46.29:937][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
