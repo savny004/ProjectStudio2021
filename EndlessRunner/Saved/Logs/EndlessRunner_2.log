@@ -1054,3 +1054,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-03.34.39:618][754]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner18A452714C83E0A7F3EB06B77ED7CC4D.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
 [2021.09.14-03.34.39:633][754]AssetCheck: New page: Asset Save: EndlessRunner
 [2021.09.14-03.34.39:633][754]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.14-03.38.44:451][804]LogSlate: Window 'DeathScreen' being destroyed
+[2021.09.14-03.38.44:468][804]LogSlate: Window 'DeathScreen' being destroyed
+[2021.09.14-03.38.44:474][804]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.38.44:474][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.38.44:480][804]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.38.44:480][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.38.45:318][898]LogEditorViewport: Clicking Background
+[2021.09.14-03.38.51:019][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.14-03.38.51:027][526]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner7885283F41F8B36867534CB82A0016BF.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.09.14-03.38.51:042][526]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.09.14-03.38.51:042][526]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.14-03.39.51:568][705]LogContentBrowser: Attempting asset rename: da5c96870c47161b90f88db34475360e-removebg-preview -> Restart
+[2021.09.14-03.39.51:599][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Screens/Restart" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Restart.uasset" SILENT=true
+[2021.09.14-03.39.51:606][705]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Restart795FAE3E406ECE35EA7771B4EFB03351.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Restart.uasset'
+[2021.09.14-03.39.51:663][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.09.14-03.39.51:693][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.14-03.39.51:708][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.14-03.39.51:723][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.39.51:740][705]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen915C148940D42908B4958083A2776005.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.39.51:793][705]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.39.51:793][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.39.51:793][705]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Screens/Restart.Restart
+[2021.09.14-03.40.04:533][180]LogContentBrowser: Attempting asset rename: d5d1405b8346ff54923376d6a8553306-removebg-preview -> d5d1405b8346ff54923376d6a8553306-removebg-preview
+[2021.09.14-03.40.09:247][742]LogTexture: Display: Building textures: Game_Over (BGRA8, 364X167)
+[2021.09.14-03.40.09:247][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.14-03.40.11:229][742]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.40.11:293][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.14-03.40.11:316][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.14-03.40.11:329][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.14-03.40.17:641][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.14-03.40.18:435][485]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.40.18:486][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.14-03.40.19:420][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.14-03.40.20:292][594]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.40.20:341][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.09.14-03.40.27:674][448]LogContentBrowser: Attempting asset rename: d5d1405b8346ff54923376d6a8553306-removebg-preview -> Game_Over
+[2021.09.14-03.40.27:704][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Screens/Game_Over" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Game_Over.uasset" SILENT=true
+[2021.09.14-03.40.27:712][448]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Game_Over111C478B4C562C3B2E3F4DAA73159266.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Game_Over.uasset'
+[2021.09.14-03.40.27:766][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.14-03.40.27:790][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.09.14-03.40.27:804][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.14-03.40.27:813][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.40.27:838][448]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreenDFE6E045460653DFE72F72ADB266BE4E.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.40.27:874][448]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.40.27:874][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.40.27:875][448]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Screens/Game_Over.Game_Over
+[2021.09.14-03.40.33:065][ 35]LogContentBrowser: Attempting asset rename: 3a05e1bb0b5b1a4d511afc3016de2941-removebg-preview -> Exit
+[2021.09.14-03.40.33:112][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Screens/Exit" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Exit.uasset" SILENT=true
+[2021.09.14-03.40.33:121][ 35]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Exit7377872F4448E7598F5C469103AB5565.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Screens/Exit.uasset'
+[2021.09.14-03.40.33:197][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.09.14-03.40.33:218][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.09.14-03.40.33:233][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.14-03.40.33:245][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.40.33:262][ 35]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreenADD2D8A9495FACBC92F1D0854693A678.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.40.33:294][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.40.33:294][ 35]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.40.33:295][ 35]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Screens/Exit.Exit
+[2021.09.14-03.40.36:757][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.14-03.40.38:465][438]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.40.42:064][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.14-03.40.42:069][854]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner957BA8164ED610D0D2C76FA3F9526EF7.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.09.14-03.40.42:084][854]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.09.14-03.40.42:084][854]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.14-03.42.01:692][175]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.42.48:098][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.42.48:118][439]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen5C57291745F5B82C5F2440AB00973BC4.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.42.48:144][439]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.42.48:145][439]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.42.49:736][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.42.49:754][623]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreenB0BC71884A272EEE7B391F8303E2E237.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.42.49:778][623]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.42.49:778][623]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
