@@ -1008,3 +1008,49 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-03.10.57:489][395]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen1D286A6443D6E676A720A58DB98D91BB.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
 [2021.09.14-03.10.57:500][395]AssetCheck: New page: Asset Save: DeathScreen
 [2021.09.14-03.10.57:500][395]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.16.42:201][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.09.14-03.16.42:205][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Levels/EndlessRunner' took 0.068
+[2021.09.14-03.16.42:206][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Screens/d5d1405b8346ff54923376d6a8553306-removebg-preview] ([1] browsable assets)...
+[2021.09.14-03.16.42:208][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Screens/d5d1405b8346ff54923376d6a8553306-removebg-preview.d5d1405b8346ff54923376d6a8553306-removebg-preview]
+[2021.09.14-03.16.42:209][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Screens/d5d1405b8346ff54923376d6a8553306-removebg-preview]
+[2021.09.14-03.16.42:212][640]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/d5d1405b8346ff54923376d6a8553306EDC04E614D4204DF8B4D0BBEB2D0C965.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/2DSideScrollerBP/Screens/d5d1405b8346ff54923376d6a8553306-removebg-preview_Auto3.uasset'
+[2021.09.14-03.16.42:214][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Screens/27a83dc0d46be8a9d6153560cd326a94-removebg-preview] ([1] browsable assets)...
+[2021.09.14-03.16.42:215][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/Screens/27a83dc0d46be8a9d6153560cd326a94-removebg-preview.27a83dc0d46be8a9d6153560cd326a94-removebg-preview]
+[2021.09.14-03.16.42:216][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Screens/27a83dc0d46be8a9d6153560cd326a94-removebg-preview]
+[2021.09.14-03.16.42:218][640]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/27a83dc0d46be8a9d6153560cd326a94A4C2EC8E484B03BA60C23B8FC1DF99ED.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/Autosaves/Game/2DSideScrollerBP/Screens/27a83dc0d46be8a9d6153560cd326a94-removebg-preview_Auto3.uasset'
+[2021.09.14-03.16.42:220][640]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.09.14-03.27.35:416][532]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\comp\Downloads\score.png)
+[2021.09.14-03.27.35:419][532]LogTexture: Display: Building textures: score (BGRA8, 597X139)
+[2021.09.14-03.27.52:009][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.09.14-03.27.52:936][907]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.27.52:995][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.09.14-03.28.44:626][625]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pmaha\Desktop\high score.png)
+[2021.09.14-03.28.44:629][625]LogTexture: Display: Building textures: high_score (BGRA8, 557X139)
+[2021.09.14-03.28.47:835][648]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pmaha\Desktop\score.png)
+[2021.09.14-03.28.47:838][648]LogTexture: Display: Building textures: score (BGRA8, 597X139)
+[2021.09.14-03.30.21:705][649]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-03.30.28:710][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.30.28:728][432]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen0F1036474CBD06C87960DFAE882D333E.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.30.28:751][432]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.30.28:751][432]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.31.36:934][742]LogEditorTransaction: Undo Remove Widget
+[2021.09.14-03.31.37:531][773]LogEditorTransaction: Undo Edit Text
+[2021.09.14-03.31.38:207][840]LogEditorTransaction: Undo Edit Override Accessible Defaults
+[2021.09.14-03.31.39:011][919]LogEditorTransaction: Undo Edit Override Accessible Defaults
+[2021.09.14-03.31.42:632][303]LogEditorTransaction: Undo Edit Text
+[2021.09.14-03.34.15:782][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.34.15:801][536]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen68BBE9BF463FBDB2E6C9DBA43DD77BB8.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.34.15:823][536]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.34.15:823][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.34.16:518][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.09.14-03.34.16:528][614]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner6366DDCF44A168E653F13C9E40B27489.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.09.14-03.34.16:544][614]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.09.14-03.34.16:544][614]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.14-03.34.38:930][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.34.38:949][687]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen8A1C1E8345C91FE8583E179D7EA938A0.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.34.38:971][687]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.34.38:971][687]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.34.39:609][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.09.14-03.34.39:618][754]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner18A452714C83E0A7F3EB06B77ED7CC4D.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.09.14-03.34.39:633][754]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.09.14-03.34.39:633][754]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
