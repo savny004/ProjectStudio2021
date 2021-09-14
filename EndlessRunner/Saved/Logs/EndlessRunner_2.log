@@ -1117,3 +1117,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-03.40.42:069][854]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner957BA8164ED610D0D2C76FA3F9526EF7.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
 [2021.09.14-03.40.42:084][854]AssetCheck: New page: Asset Save: EndlessRunner
 [2021.09.14-03.40.42:084][854]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.09.14-03.42.01:692][175]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.42.48:098][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.42.48:118][439]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreen5C57291745F5B82C5F2440AB00973BC4.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.42.48:144][439]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.42.48:145][439]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2021.09.14-03.42.49:736][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2021.09.14-03.42.49:754][623]LogSavePackage: Moving 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/DeathScreenB0BC71884A272EEE7B391F8303E2E237.tmp' to 'C:/Users/pmaha/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/Widgets/DeathScreen.uasset'
+[2021.09.14-03.42.49:778][623]AssetCheck: New page: Asset Save: DeathScreen
+[2021.09.14-03.42.49:778][623]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
