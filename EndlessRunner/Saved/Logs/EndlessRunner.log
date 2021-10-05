@@ -1733,3 +1733,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.05-01.05.05:261][874]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunnerC48E72FA4FD901E28BFE579F52482E1B.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
 [2021.10.05-01.05.05:273][874]AssetCheck: New page: Asset Save: EndlessRunner
 [2021.10.05-01.05.05:273][874]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.10.05-01.06.06:272][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.10.05-01.06.06:276][228]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner141B57564A0B1B340FF2BF8C2889F96E.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.10.05-01.06.06:287][228]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.10.05-01.06.06:287][228]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.10.05-01.21.03:869][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.05-01.21.03:877][441]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner4B49392D4B2EF25EDA1A54A933FC0742.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.10.05-01.21.03:892][441]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.10.05-01.21.03:892][441]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.10.05-01.27.28:432][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.05-01.27.28:440][404]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessRunner0E06150F4F20837E37CA27BDB42512F5.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/2DSideScrollerBP/Levels/EndlessRunner.umap'
+[2021.10.05-01.27.28:451][404]AssetCheck: New page: Asset Save: EndlessRunner
+[2021.10.05-01.27.28:451][404]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Levels/EndlessRunner.EndlessRunner
+[2021.10.05-01.48.33:179][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/EndlessBase.EndlessBase
+[2021.10.05-01.49.41:124][768]BlueprintLog: New page: Compile EndlessBase
+[2021.10.05-01.49.41:407][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.05-01.49.42:089][804]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessBaseA68A817B4B224266DF375BA941CF4DE5.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Actors/EndlessBase.uasset'
+[2021.10.05-01.49.42:115][804]AssetCheck: New page: Asset Save: EndlessBase
+[2021.10.05-01.49.42:115][804]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/EndlessBase.EndlessBase
+[2021.10.05-01.49.48:782][548]LogSavePackage: Moving '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Saved/EndlessBaseDC68A87E4C4D51D5FE8281BDB9D166A4.tmp' to '../../../../../../Users/i_m_t/Documents/GitHub/ProjectStudio2021/EndlessRunner/Content/LevelItems/Floors/Actors/EndlessBase.uasset'
+[2021.10.05-01.49.48:792][548]AssetCheck: New page: Asset Save: EndlessBase
+[2021.10.05-01.49.48:792][548]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/EndlessBase.EndlessBase
+[2021.10.05-01.49.53:291][979]LogSlate: Window 'EndlessBase' being destroyed
+[2021.10.05-01.49.53:300][979]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-01.49.53:300][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
